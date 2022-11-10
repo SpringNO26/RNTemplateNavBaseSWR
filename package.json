@@ -1,0 +1,8 @@
+{
+  "name": "RNTemplateNavBaseSWR",
+  "version": "0.0.1",
+  "description": "React Native Template shiping React Navigation, SWR & Native Base",
+  "repository": "git@github.com:SpringNO26/RNTemplateNavBaseSWR.git",
+  "author": "SpringJet <SpringJet@proton.me>",
+  "license": "MIT"
+}
